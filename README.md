@@ -2,6 +2,9 @@
 **The Value-Token Mirroring Framework (VTMF)**  
 **Edition** — April 23, 2026  
 **Author:** Kamil Khoury
+**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
+Free for non-commercial use and sharing with attribution.  
+Commercial use, enterprise deployment, or derivative works require a separate license from the author.
 
 Download the full white paper
 
